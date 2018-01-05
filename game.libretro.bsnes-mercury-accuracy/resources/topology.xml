@@ -22,11 +22,10 @@
       </port>
     </accepts>
     <accepts controller="game.controller.snes.super.scope"/>
-    <accepts controller="game.controller.konami.justifier" model="blue">
+    <accepts controller="game.controller.konami.justifier.blue">
       <port id="1" buttonmap_offset="4">
-        <accepts controller="game.controller.konami.justifier" model="pink"/>
+        <accepts controller="game.controller.konami.justifier.pink"/>
       </port>
     </accepts>
-    <accepts controller="game.controller.konami.justifier" model="red"/>
   </port>
 </logicaltopology>
