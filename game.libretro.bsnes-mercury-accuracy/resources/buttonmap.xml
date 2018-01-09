@@ -26,12 +26,12 @@
     <feature name="pause" mapto="RETRO_DEVICE_ID_LIGHTGUN_PAUSE"/>
     <feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
   </controller>
-  <controller id="game.controller.konami.justifier.blue" type="RETRO_DEVICE_LIGHTGUN" subclass="1">
+  <controller id="game.controller.konami.justifier.snes" type="RETRO_DEVICE_LIGHTGUN" subclass="1">
     <feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
     <feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
     <feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
   </controller>
-  <controller id="game.controller.konami.justifier.pink" type="RETRO_DEVICE_LIGHTGUN" subclass="2">
+  <controller id="game.controller.konami.justifier.player2" type="RETRO_DEVICE_LIGHTGUN" subclass="2">
     <feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
     <feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
     <feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
