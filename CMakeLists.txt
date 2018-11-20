@@ -4,7 +4,7 @@ project(game.libretro.bsnes-mercury-accuracy)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-bsnes-mercury-accuracy REQUIRED)
+find_library(BSNES-MERCURY-ACCURACY_LIB NAMES bsnes_mercury_accuracy_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(BSNES-MERCURY-ACCURACY_CUSTOM_BINARY ${BSNES-MERCURY-ACCURACY_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
