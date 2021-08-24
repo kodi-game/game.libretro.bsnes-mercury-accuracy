@@ -16,6 +16,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - SNES / SFC (bsnes-mercury Accuracy) v094 (Accuracy)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "bSNES Mercury is a fork of Higan (originally called bSNES), notable for emulating the original hardware as accurately as possible through low-level, cycle-accurate emulation.
+
+The &#34;Accuracy&#34; profile focuses on accuracy at the cost of performance.
+
+http://byuu.org/
+
+Supported files: .sfc, .smc, .bml"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
