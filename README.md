@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.bsnes-mercury-accuracy/resources/icon.png)
+![Nintendo - SNES / SFC (bsnes-mercury Accuracy) icon](game.libretro.bsnes-mercury-accuracy/resources/icon.png)
 
 ### Fanart
 
@@ -23,9 +23,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.bsnes-mercury-accuracy/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.bsnes-mercury-accuracy/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.bsnes-mercury-accuracy/resources/screenshot-03.jpg)
+![Nintendo - SNES / SFC (bsnes-mercury Accuracy) screenshot](game.libretro.bsnes-mercury-accuracy/resources/screenshot-01.jpg)
+![Nintendo - SNES / SFC (bsnes-mercury Accuracy) screenshot](game.libretro.bsnes-mercury-accuracy/resources/screenshot-02.jpg)
+![Nintendo - SNES / SFC (bsnes-mercury Accuracy) screenshot](game.libretro.bsnes-mercury-accuracy/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
