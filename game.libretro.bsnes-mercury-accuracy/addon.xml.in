@@ -37,6 +37,7 @@
 		<description lang="ru_RU">bSNES Mercury — это форк Higan (первоначально называвшийся bSNES), отличающийся максимально точной эмуляцией оригинального оборудования с помощью низкоуровневой эмуляции с точностью до цикла.[CR][CR][I]Точный[/I] профиль фокусируется на точности за счёт производительности.</description>
 		<description lang="zh_CN">bSNES Mercury 是 Higan（最初称为 bSNES）的一个分支，以通过低级别、周期精确的仿真尽可能精确地模拟原始硬件而著名。[CR][CR][I]精度[/I]配置以性能为代价关注精度。</description>
 		<disclaimer lang="da_DK">I kærligt minde om Near / Byuu</disclaimer>
+		<disclaimer lang="de_DE">In liebevoller Erinnerung an Near / Byuu</disclaimer>
 		<disclaimer lang="en_GB">In loving memory of Near / Byuu</disclaimer>
 		<disclaimer lang="es_ES">En cariñoso recuerdo de Near / Byuu</disclaimer>
 		<disclaimer lang="it_IT">In amorevole ricordo di Near / Byuu</disclaimer>
