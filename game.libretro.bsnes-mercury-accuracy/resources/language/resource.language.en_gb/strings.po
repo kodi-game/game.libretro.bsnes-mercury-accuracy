@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC (bsnes-mercury Accuracy) v094 (Accuracy)"
+msgid "Nintendo - SNES / SFC (bsnes-mercury Accuracy)"
 msgstr ""
 
 msgctxt "Addon Description"
