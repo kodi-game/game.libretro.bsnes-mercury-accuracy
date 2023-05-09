@@ -29,6 +29,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (bsnes-mercury Preciso)</summary>
 		<description lang="da_DK">bSNES Mercury er en fork af Higan (oprindeligt kaldet bSNES), kendt for at emulere den originale hardware så nøjagtigt som muligt gennem lav-niveau, cyklus-nøjagtig emulering.[CR][CR]Profilen [I]Nøjagtighed[/I] fokuserer på nøjagtighed på bekostning af ydeevne.</description>
