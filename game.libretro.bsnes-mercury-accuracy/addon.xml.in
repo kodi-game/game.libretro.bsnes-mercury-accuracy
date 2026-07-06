@@ -30,6 +30,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="da_DK">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (bsnes-mercury Preciso)</summary>
@@ -38,6 +39,7 @@
 		<summary lang="ru_RU">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="sv_SE">Nintendo - SNES / SFC (bsnes-mercury Accuracy)</summary>
 		<summary lang="zh_CN">任天堂 - SNES / SFC（bsnes-mercury 精度）</summary>
+		<description lang="cs_CZ">bSNES Mercury je verze odvozená od emulátoru Higan (původně nazývaného bSNES), známá tím, že emuluje původní hardware co nejpřesněji pomocí nízkoúrovňové, cyklově přesné emulace.[CR][CR]Profil [I]Accuracy[/I] se zaměřuje na přesnost na úkor výkonu.</description>
 		<description lang="da_DK">bSNES Mercury er en fork af Higan (oprindeligt kaldet bSNES), kendt for at emulere den originale hardware så nøjagtigt som muligt gennem lav-niveau, cyklus-nøjagtig emulering.[CR][CR]Profilen [I]Nøjagtighed[/I] fokuserer på nøjagtighed på bekostning af ydeevne.</description>
 		<description lang="en_GB">bSNES Mercury is a fork of Higan (originally called bSNES), notable for emulating the original hardware as accurately as possible through low-level, cycle-accurate emulation.[CR][CR]The [I]Accuracy[/I] profile focuses on accuracy at the cost of performance.</description>
 		<description lang="es_ES">bSNES Mercury es una bifurcación de Higan (originalmente llamado bSNES), que destaca por emular el hardware original con la mayor precisión posible mediante emulación de bajo nivel y precisión de ciclos.[CR][CR]El perfil [I]Accuracy[/I] se centra en la precisión a costa del rendimiento.</description>
@@ -46,6 +48,7 @@
 		<description lang="ru_RU">bSNES Mercury — это форк Higan (первоначально называвшийся bSNES), отличающийся максимально точной эмуляцией оригинального оборудования с помощью низкоуровневой эмуляции с точностью до цикла.[CR][CR][I]Точный[/I] профиль фокусируется на точности за счёт производительности.</description>
 		<description lang="sv_SE">bSNES Mercury är en fork av Higan (ursprungligen kallad bSNES), känd för att emulera den ursprungliga hårdvaran så exakt som möjligt genom cykelnoggrann emulering på låg nivå.[CR][CR]Profilen [I]Accuracy[/I] fokuserar på noggrannhet på bekostnad av prestanda.</description>
 		<description lang="zh_CN">bSNES Mercury 是 Higan（最初称为 bSNES）的一个分支，以通过低级别、周期精确的仿真尽可能精确地模拟原始硬件而著名。[CR][CR][I]精度[/I]配置以性能为代价关注精度。</description>
+		<disclaimer lang="cs_CZ">S láskou na památku Near / Byuu</disclaimer>
 		<disclaimer lang="da_DK">I kærligt minde om Near / Byuu</disclaimer>
 		<disclaimer lang="de_DE">In liebevoller Erinnerung an Near / Byuu</disclaimer>
 		<disclaimer lang="en_GB">In loving memory of Near / Byuu</disclaimer>
